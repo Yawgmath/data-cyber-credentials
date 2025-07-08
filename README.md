@@ -6,11 +6,11 @@ This repository contains official certifications and digital badges I’ve earne
 
 ## 🛡️ Cybersecurity Certification – St. Francis Xavier University
 
-![Cybersecurity Certificate – StFX]((https://learner.mycreds.ca/badges/public/assertion/A4BXsFsiQleE3r7WnaJyHw))
+![Cybersecurity Certificate – StFX]
 
 **Institution:** St. Francis Xavier University  
 **Program Provider:** Digital Nova Scotia  
-**Credential Platform:** [MyCreds.ca](https://learner.mycreds.ca/badges)  
+**Credential Platform:** [MyCreds.ca](https://learner.mycreds.ca/badges/public/assertion/A4BXsFsiQleE3r7WnaJyHw)  
 **Completed:** 2024
 
 This 20-week program provided a foundational and practical understanding of cybersecurity concepts, tools, and practices. Topics covered included:
